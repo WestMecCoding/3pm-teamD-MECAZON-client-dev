@@ -1,13 +1,13 @@
 import { useState, useEffect } from "react";
 import GroceryList from "../components/GroceryList";
 import axios from "axios";
-
+import api from "../config/axios.js"
 export default function Groceries() {
   const [groceries, setGroceries] = useState([]);
   useEffect(() => {
     async function fetchGroceries() {
       try {
-        const response = await axios.get("/dummy-data/groceries.json");
+        const response = await api.get("/dummy-data/groceries.json");
 
         // set the state of the groceries to the response.data
         setGroceries(response.data);

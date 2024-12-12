@@ -1,0 +1,25 @@
+[
+    {
+        "id": 12345,
+        "item": "Welch Fruit Snacks",
+        "category": "Snacks, Games, Gifts",
+        "price_usd": 2.99,
+        "details": "A tasty snack of fruity goodness to fill your taste buds"
+    },
+
+    {
+        "id": 12345,
+        "item": "Doritos",
+        "category": "Snacks, Games, Gifts",
+        "price_usd": 1.99,
+        "details": "Cheese Flavored"
+    },
+
+    {
+        "id": ,
+        "item": ,
+        "category": ,
+        "price_usd": ,
+        "details": 
+    }
+]

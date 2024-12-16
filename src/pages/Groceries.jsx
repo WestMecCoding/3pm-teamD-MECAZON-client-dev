@@ -2,31 +2,31 @@ import { useState, useEffect } from "react";
 import GroceryList from "../components/GroceryList";
 import axios from "axios";
 
-export default function Groceries() {
-  const [groceries, setGroceries] = useState([]);
+export default function Products() {
+  const [products, setProducts] = useState([]);
   useEffect(() => {
-    async function fetchGroceries() {
+    async function fetchProducts() {
       try {
         const response = await axios.get("/dummy-data/products.json");
 
         // set the state of the groceries to the response.data
-        setGroceries(response.data);
+        setProducts(response.data);
       } catch (err) {
         console.error("something went wrong fetching groceries", err);
       }
     }
-    fetchGroceries();
+    fetchProducts();
   }, []);
 
   useEffect(() => {
     // console.log(groceries);
-    sessionStorage.setItem("groceries", JSON.stringify(groceries));
-    console.log(JSON.parse(sessionStorage.getItem("groceries")));
-  }, [groceries]);
+    sessionStorage.setItem("products", JSON.stringify(products));
+    console.log(JSON.parse(sessionStorage.getItem("products")));
+  }, [products]);
   return (
     <div>
-      <h1>Groceries</h1>
-      <GroceryList items={groceries} />
+      <h1>Products</h1>
+      <GroceryList items={products} />
     </div>
   );
 }

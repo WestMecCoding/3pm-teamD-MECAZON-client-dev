@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "item": "pens",
+        "item": "Pens",
         "category": "educational supplies",
         "price_in_usd": 13.99,
         "details": " 24 pack of medium point, black ink, retractable pens",
@@ -9,7 +9,7 @@
     },
     {
         "id": 2,
-        "item": "notebooks",
+        "item": "Notebooks",
         "category": "educational supplies",
         "price_in_usd": 4.09,
         "details": "5 pack, 100 sheets, College ruled, composition notebook",
@@ -17,7 +17,7 @@
     },
     {
         "id": 3,
-        "item": "tool supply kit",
+        "item": "Tool Supply Kit",
         "category": "educational supplies",
         "price_in_usd": 18.79,
         "details": "100 sheet wide ruled composition notebook, 2 70-sheet spiral notebooks, pencil pouch, yellow pencils, pencil sharpener, 3 highlighters, 10 crayons, 5 inch blunt three-finger scissors, glue sticks, 12 inch plastic ruler, four pink wedge erasers, two two-pocket folders, color pencils, 5 pens",
@@ -25,7 +25,7 @@
     },
     {
         "id": 4,
-        "item": "calculator",
+        "item": "Calculator",
         "category": "educational supplies",
         "price_in_usd": 218.47,
         "details": "Black/white Texas Instruments TI-84 PLUS CE graphing calculator",
@@ -33,7 +33,7 @@
     },
     {
         "id": 5,
-        "item": "backpack",
+        "item": "Backpack",
         "category": "educational supplies",
         "price_in_usd": 38,
         "details": "JanSport student backpack solid black, two large compartments",
@@ -41,15 +41,15 @@
     },
     {
         "id": 6,
-        "item": "coloring pencils",
+        "item": "Coloring Pencils",
         "category": "educational supplies",
-        "price_in_usd": 0.00,
+        "price_in_usd": 13.36,
         "details": "Crayola, 50 twistable colored pencils, no sharpening or peeling, plastic barrel to help prevent damage",
         "product_img": "https://drive.google.com/file/d/1ZKSTSibmrRTjrWaouqq0PLpMCabHyicy/view?usp=drive_link"
     },
     {
         "id": 7,
-        "item": "markers",
+        "item": "Markers",
         "category": "educational supplies",
         "price_in_usd": 3.49,
         "details": "10 pack Crayola markers, broad line, assorted colors, won't smudge or bleed through paper",
@@ -57,7 +57,7 @@
     },
     {
         "id": 8,
-        "item": "pencil pouch",
+        "item": "Pencil Pouch",
         "category": "educational supplies",
         "price_in_usd": 15.99,
         "details": "Black, two compartments, hold up to 70 pencils and pens, durable material",
@@ -65,7 +65,7 @@
     },
     {
         "id": 9,
-        "item": "desk",
+        "item": "Desk",
         "category": "office supplies",
         "price_in_usd": 64.47,
         "details": "Black, modern design, home computer desk",
@@ -73,7 +73,7 @@
     },
     {
         "id": 10,
-        "item": "file cabinet",
+        "item": "File Cabinet",
         "category": "office supplies",
         "price_in_usd": 139.98,
         "details": "Vertical, 4 drawer, lockable, metal, smooth/ slender surface",
@@ -81,7 +81,7 @@
     },
     {
         "id": 11,
-        "item": "office seating chair",
+        "item": "Office Seating Chair",
         "category": "office supplies",
         "price_in_usd": 74.99,
         "details": "Guest chair features mesh back and fabric seat along with four leg design with molded arm rest",
@@ -89,7 +89,7 @@
     },
     {
         "id": 12,
-        "item": "shelving unit",
+        "item": "Shelving Unit",
         "category": "office supplies",
         "price_in_usd": 159.99,
         "details": "5 tier, 60 inches tall, modern, sturdy material for up to 105 pounds per shelf",
@@ -97,7 +97,7 @@
     },
     {
         "id": 13,
-        "item": "lamp",
+        "item": "Lamp",
         "category": "office supplies",
         "price_in_usd": 26.99,
         "details": "Metal desk lamp with clamp, swing arm, extend up to 18 inches and the rotatable base and shade, clamp it onto any surface either vertical or horizontal up to 2 inches wide",
@@ -105,7 +105,7 @@
     },
     {
         "id": 14,
-        "item": "white board",
+        "item": "White Board",
         "category": "office supplies",
         "price_in_usd": 30.08,
         "details": "Magnetic dry erase whiteboard, 36 x 24-inch, aluminum frame, silver/white, includes: 1 whiteboard marker, 2 magnets, and 1 pen tray",
@@ -113,7 +113,7 @@
     },
     {
         "id": 15,
-        "item": "electric standing desk",
+        "item": "Electric Standing Desk",
         "category": "office supplies",
         "price_in_usd": 229.99,
         "details": "All black, height adjustable electric standing desk, 48 x 24 inches sit stand up desk, freely select electric standing desk height, from 28.35 inches to 46.46 inches",
@@ -121,7 +121,7 @@
     },
     {
         "id": 16,
-        "item": "office chair",
+        "item": "Office Chair",
         "category": "office supplies",
         "price_in_usd": 141.16,
         "details": "Ergonomic mesh office chair, high back desk chair with 3D armrests, up & down lumbar support, swivel computer task chair with adjustable 2D headrest, tilt function black",
@@ -129,7 +129,7 @@
     },
     {
         "id": 17,
-        "item": "computer (PC)",
+        "item": "Computer (PC)",
         "category": "electronics",
         "price_in_usd": 1899.99,
         "details": "14th Gen Intel Core i5-14600KF Processor: Experience unparalleled power with 14-core, 20-way processing and Intel Turbo Boost technology, delivering dynamic performance when you need it and energy efficiency when you don't, 32GB System Memory: Perfect for intense multitasking and gaming, with high-bandwidth DDR5 RAM to smoothly run graphics-heavy PC games",
@@ -137,7 +137,7 @@
     },
     {
         "id": 18,
-        "item": "laptop",
+        "item": "Laptop",
         "category": "electronics",
         "price_in_usd": 150,
         "details": "Lenovo Slim 14 inch Chromebook",
@@ -145,7 +145,7 @@
     },
     {
         "id": 19,
-        "item": "speakers",
+        "item": "Speakers",
         "category": "electronics",
         "price_in_usd": 34.99,
         "details": "Kanto YU6 2-Way powered speakers with Bluetooth and Phono Preamp, includes a remote to give you full control over your audio, matte white",
@@ -153,7 +153,7 @@
     },
     {
         "id": 20,
-        "item": "keyboard",
+        "item": "Keyboard",
         "category": "electronics",
         "price_in_usd": 129.99,
         "details": "Silver, wireless Bluetooth keyboard promotes workplace efficiency, long-lasting rechargeable battery",
@@ -161,7 +161,7 @@
     },
     {
         "id": 21,
-        "item": "mouse",
+        "item": "Mouse",
         "category": "electronics",
         "price_in_usd": 14.99,
         "details": "designed to fit the palm of either of your hands so you feel minimal strain even after hours of clicking, scrolling and selecting",
@@ -169,7 +169,7 @@
     },
     {
         "id": 22,
-        "item": "moniters",
+        "item": "Moniters",
         "category": "electronics",
         "price_in_usd": 159.99,
         "details": "LCD monitor with 24 inch screen for your viewing pleasure, 1920 x 1080 screen resolution delivers excellent detail, ensures image accuracy and consistency across wide horizontal and vertical viewing angles",
@@ -177,7 +177,7 @@
     },
     {
         "id": 23,
-        "item": "headphones",
+        "item": "Headphones",
         "category": "electronics",
         "price_in_usd": 49.99,
         "details": "Over-the-ear headphones, elimnate room noise, provides soft comfortable fit for hours of listening",
@@ -185,7 +185,7 @@
     },
     {
         "id": 24,
-        "item": "tablet",
+        "item": "Tablet",
         "category": "electronics",
         "price_in_usd": 819.99,
         "details": "Samsung Tab S9 Galaxy Tab 11 iinch tablet, WiFi, 128GB, Android, gray",
@@ -193,7 +193,7 @@
     },
     {
         "id": 25,
-        "item": "fruit snacks",
+        "item": "Fruit Snacks",
         "category": "snacks, games, gifts",
         "price_in_usd": 8.48,
         "details": "Includes 40 single serve bags, delicious fruit snacks where fruit is the 1st ingredient, excellent source of vitamins A, C, & E",
@@ -201,7 +201,7 @@
     },
     {
         "id": 26,
-        "item": "lays variety pack",
+        "item": "Lays Variety Pack",
         "category": "snacks, games, gifts",
         "price_in_usd": 21.86,
         "details": "Includes 40 (1 oz) bags of Lay's Potato Chips: (10) Barbecue, (10) Sour Cream & Onion, (10) Classic, and (10) Salt and Vinegar",
@@ -209,7 +209,7 @@
     },
     {
         "id": 27,
-        "item": "nutrition variety pack",
+        "item": "Nutrition Variety Pack",
         "category": "snacks, games, gifts",
         "price_in_usd": 16.77,
         "details": "Apple Cinnamon, Blueberry, or Strawberry-flavored bars, 8g of whole grain in every 37g serving, Nutri-Grain bars are also a good source of eight vitamins and minerals. Nutri-Grain bars are travel-ready, and make a perfectly sized accompaniment to backpacks, tote bags; pack long for busy, on-the-go moments",
@@ -217,7 +217,7 @@
     },
     {
         "id": 28,
-        "item": "exlusive bundle of board games",
+        "item": "Exlusive Bundle of Board Games",
         "category": "snacks, games, gifts",
         "price_in_usd": 42.65,
         "details": "Classic Connect 4, Classic Sorry!, & Classic Trouble",
@@ -225,7 +225,7 @@
     },
     {
         "id": 29,
-        "item": "portabel gaming system",
+        "item": "Portabel Gaming System",
         "category": "snacks, games, gifts",
         "price_in_usd": 26.13,
         "details": "Portable gaming system with 220 games, 2.5 inch color display, pocket size (DGUN-3911), black",
@@ -233,7 +233,7 @@
     },
     {
         "id": 30,
-        "item": "gift card",
+        "item": "Gift Card",
         "category": "snacks, games, gifts",
         "price_in_usd": 206.95,
         "details": "Visa $200 Gift Card (plus $6.95 Purchase Fee)",
@@ -241,7 +241,7 @@
     },
     {
         "id": 31,
-        "item": "rubiks cude",
+        "item": "Rubiks Cube",
         "category": "snacks, games, gifts",
         "price_in_usd": 9.99,
         "details": "Rubik's Cube, the original 3x3 cube 3D puzzle fidget cube stress relief fidget toy brain teasers travel games for adults and kids ages 8+",
@@ -249,7 +249,7 @@
     },
     {
         "id": 32,
-        "item": "uno card game",
+        "item": "Uno Card Game",
         "category": "snacks, games, gifts",
         "price_in_usd": 10.99,
         "details": "UNO tin comes with 112 cards and instructions in a sturdy tin that's great for storage and travel",
@@ -257,7 +257,7 @@
     },
     {
         "id": 33,
-        "item": "suitcase",
+        "item": "Suitcase",
         "category": "travel supplies and luggage",
         "price_in_usd": 179.99,
         "details": "Expandable Checked Luggage: With 23 x 16.75 x 11.25 inches of packing space, this rolling suitcase is the perfect size for any trip; At only 26.25 x 18 x 11.25 inches overall, it fits all your travel essentials without the extra bulk",
@@ -266,7 +266,7 @@
     },
     {
         "id": 34,
-        "item": "travel bag",
+        "item": "Travel Bag",
         "category": "travel supplies and luggage",
         "price_in_usd": 39.99,
         "details": "faux leather fabric and is lined with a nylon interior; This bag features interior zippered pocket, removable and adjustable shoulder strap; Dimensions are 22 inch x 13 inch x 10",
@@ -275,7 +275,7 @@
     },
     {
         "id": 35,
-        "item": "duffle bag",
+        "item": "Duffle Bag",
         "category": "travel supplies and luggage",
         "price_in_usd": 45,
         "details": "Adjustable shoulder strap, durable polyester / water-resistant base material to keep your stuff dry",
@@ -284,7 +284,7 @@
     },
     {
         "id": 36,
-        "item": "travel backpack",
+        "item": "Travel Backpack",
         "category": "travel supplies and luggage",
         "price_in_usd": 99.99,
         "details": "Removable lid with zippered pockets, autolock buckles prevent slippage, bottom, front and side compression straps, top-loading shroud, multiple compartments",
@@ -293,7 +293,7 @@
     },
     {
         "id": 37,
-        "item": "neck pillow",
+        "item": "Neck Pillow",
         "category": "travel supplies and luggage",
         "price_in_usd": 11.87,
         "details": "Memory foam neck pillow for head, neck, and shoulder support; dark gray; Ideal for plane rides, road trips, or simply relaxing at home; Soft plush cover with zipper closure for removable convenience; Built-in elastic strap for easily attaching to outside of carry-on",
@@ -302,7 +302,7 @@
     },
     {
         "id": 38,
-        "item": "passport holder",
+        "item": "Passport Holder",
         "category": "travel supplies and luggage",
         "price_in_usd": 21.99,
         "details": "Highest quality leather, designed to fit perfectly with your passport, vaccine card and other travel documents; You can store your passport, ticket, and various travel documents, making it the perfect accessory to take with you when you travel",
@@ -311,7 +311,7 @@
     },
     {
         "id": 39,
-        "item": "eye mask",
+        "item": "Eye Mask",
         "category": "travel supplies and luggage",
         "price_in_usd": 12.99,
         "details": "100% Mulberry silk on both sides, and 100% silk filling; Natural Mulberry Silk--Our 8.3 inch x3.5 inch silk eye mask is made of top quality 19mm natural mulberry silk; It not only feel smooth against your skin but are also hypoallergenic, great for those with sensitive skin",
@@ -320,7 +320,7 @@
     },
     {
         "id": 40,
-        "item": "laptop travel bag",
+        "item": "Laptop Travel Bag",
         "category": "travel supplies and luggage",
         "price_in_usd": 32.99,
         "details": "Resistant material, multi-compartment organizer, comfy and lightweight, stylish design (leather)",

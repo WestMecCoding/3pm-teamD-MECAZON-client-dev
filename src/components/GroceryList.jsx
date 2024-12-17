@@ -9,7 +9,7 @@ export default function GroceryList({ items }) {
           <p>Category: {i.category}</p>
           <p>DETAILS: {i.details}</p>
           <p>Price: ${i.price_in_usd}</p>
-          <p>IMG: {i.product_img}</p>
+          <img src={i.product_img} alt={"Hi there"}></img>
         </div>
       ))}
     </div>

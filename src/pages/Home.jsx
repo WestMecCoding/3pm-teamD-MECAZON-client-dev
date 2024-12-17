@@ -3,6 +3,7 @@ import { BsDisplay } from "react-icons/bs";
 import Star from "../components/Star";
 import '../index.css'
 import { useState, useEffect } from "react";
+import ShirtSwitcher from "../components/ShirtSwitcher";
 // import style from '../styles/Home.modules.css'
 export default function Home() {
 
@@ -11,17 +12,19 @@ export default function Home() {
   useEffect(() => {
      console.log("current rating", rating)
 
-  }, [rating])
-  return (
-    <>
+    }, [rating])
+    return (
+      <>
 
 
       <h1> Welcome to the Shopping Website</h1>
 
+      <ShirtSwitcher></ShirtSwitcher>
       {[...Array(5)].map((star, index) => {
         const currentRate = index + 1
 
         return (
+          <>
 
 
           <div key={index}>
@@ -43,6 +46,8 @@ export default function Home() {
             </label>
 
           </div>
+          </>
+
         )
       })}
     </>

@@ -1,0 +1,8 @@
+.filters {
+    filter: opacity(15%);
+    filter: saturate(15%);
+    filter: brightness(15%);
+    filter: sepia(15%);
+    filter: blur(15%);
+    filter: contrast(15%);
+}

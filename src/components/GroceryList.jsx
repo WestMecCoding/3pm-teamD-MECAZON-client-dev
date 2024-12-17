@@ -1,5 +1,5 @@
 import styles from "../styles/GroceryList.module.css";
-
+import Star from "./Star";
 export default function GroceryList({ items }) {
   return (
     <div className={styles.list}>
@@ -13,3 +13,4 @@ export default function GroceryList({ items }) {
     </div>
   );
 }
+
